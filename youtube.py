@@ -7,7 +7,7 @@ from sqlalchemy import create_engine
 
 
 # Specify API key
-key = 'AIzaSyBSviFQcUwRc83i6H6-Z0VRe5IUe5dUyB'
+key = 'AIzaSyBSviFQcUwRc83i6H6-Z0VRe5IUe5dUy'
 
 def main() :
     st.title("Welcome to YouTube Data harvesting")
